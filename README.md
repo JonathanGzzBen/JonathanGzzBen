@@ -13,6 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# About
+
+- 🔭 I’m currently working on developing healthy habits
+- 🌱 I’m currently learning real-time rendering and OpenGL
+- 👯 I’m looking to collaborate on any C/C++ project
+- 💬 Ask me about Linux and Ricing
+- ⚡ Fun fact: I wrote creepypastas when they were trend
+
 # Stats
 
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=JonathanGzzBen&show_icons=true&theme=radical&hide=css,html)
