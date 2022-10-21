@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning real-time rendering and OpenGL
 - 👯 I’m looking to collaborate on any C/C++ project
 - 💬 Ask me about Linux and Ricing
-- ⚡ Fun fact: I wrote creepypastas when they were trend
+- ⚡ Fun fact: I wrote creepypastas when they were trending
 
 # Stats
 
