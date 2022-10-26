@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 
 # Stats
 
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=JonathanGzzBen&show_icons=true&theme=radical&hide=css,html,javascript,java,c#)
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=JonathanGzzBen&show_icons=true&theme=radical&hide=css,html,javascript,java,cs)
 ![github stats](https://github-readme-stats.vercel.app/api?username=JonathanGzzBen&show_icons=true&theme=radical&count_private=true)
